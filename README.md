@@ -32,7 +32,7 @@ The dashboard provides insights into clinic performance, operational KPIs, and p
 ---
 
 ## Dashboard Preview
-![Medical Clinic Dashboard]([https://github.com/Olee13/Medical-Clinic-KPI-PowerBI-Dashboard/blob/main/MedicalDashboard.png])
+![Medical Clinic Dashboard](https://github.com/Olee13/Medical-Clinic-KPI-PowerBI-Dashboard/blob/main/MedicalDashboard.png)
 
 ---
 
